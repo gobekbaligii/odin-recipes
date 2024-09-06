@@ -1,0 +1,16 @@
+p,
+li {
+  font-size: larger;
+  padding: 0.5%;
+  margin-left: 5%;
+}
+
+img,
+h1,
+h2 {
+  margin-left: 5%;
+}
+
+body {
+  background: rgb(245, 245, 245);
+}
